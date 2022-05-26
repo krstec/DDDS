@@ -23,7 +23,7 @@ class Login:
 
 
 
-        title = Label(Frame_login, text="Login Hare", font=("Imapct",35,"bold"),fg="#d77337",bg="white").place(x=90,y=30)
+        title = Label(Frame_login, text="Login Here", font=("Imapct",35,"bold"),fg="#d77337",bg="white").place(x=90,y=30)
         desc = Label(Frame_login, text="Account Employee Login Area", font=("Goudy old style",15,"bold"),fg="#d25d17",bg="white").place(x=90,y=100)
         
         
